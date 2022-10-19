@@ -1,3 +1,3 @@
 # Terraform-learnings
 
-Hey everyone, here are my terraform learnings.
+Hey everyone, here I have added my terraform learnings.
