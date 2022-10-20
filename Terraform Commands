@@ -5,3 +5,7 @@ $ terraform plan -> it kind of does a dry run of your code so you can see all th
 $ terraform apply -> to actually run our code
 
 $ terraform destroy -> to delete the resource 
+
+$ terraform fmt -> when we run this command the files that are changed in the configuration directory is displayed on the screen
+
+$ terraform providers -> to see a list of all the providers used in the terraform directory 
