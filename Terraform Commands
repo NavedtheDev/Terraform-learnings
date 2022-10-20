@@ -9,3 +9,7 @@ $ terraform destroy -> to delete the resource
 $ terraform fmt -> when we run this command the files that are changed in the configuration directory is displayed on the screen
 
 $ terraform providers -> to see a list of all the providers used in the terraform directory 
+
+$ terraform refresh -> used to sync terraform with the real world infrastructure 
+
+$ terraform graph -> used to create a visual representation of the dependencies in a terraform configuuration or an execution plan 
