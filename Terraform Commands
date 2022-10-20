@@ -1,0 +1,7 @@
+$ terraform init -> this command downloads the necessary plugins required to be able to work on the resources declared in the .tf file
+
+$ terraform plan -> it kind of does a dry run of your code so you can see all the changes that will take place 
+
+$ terraform apply -> to actually run our code
+
+$ terraform destroy -> to delete the resource 
