@@ -10,4 +10,4 @@ Here is an example of a HCL file,
 
 ## Terraform Commands
 
-- [Terraform Commands](Terraform Commands/README.md)
+- [Terraform Commands](https://github.com/NavedtheDev/Terraform-learnings/blob/64440c56e5b1544f4788faa4b445ae91a479d0d1/Terraform%20Commands/README.md)
