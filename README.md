@@ -1,7 +1,6 @@
 # Terraform-learnings
 
-
-![HCL](https://user-images.githubusercontent.com/98219227/196745350-27fc9c85-2972-45f1-8cd5-1bfa6e13d83d.png)
+- [HCL](https://github.com/NavedtheDev/Terraform-learnings/blob/32f48b5300cec54a96de84bbc9443682c0272c51/HCL/README.md)
 
 
 # Terraform Commands
