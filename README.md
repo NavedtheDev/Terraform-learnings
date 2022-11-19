@@ -1,6 +1,5 @@
 # Terraform-learnings
 
-Hey everyone, here I have added my terraform learnings.
 
 Here is an example of a HCL file,
 
